@@ -9,4 +9,3 @@ The network is composed of an input layer, and output layer and as many hidden l
 Each layer can include any number of neurons, each of which follows the Rosenblatt's Perceptron model with a sigmoid activation function.
 
 The learning process uses the backpropagation, which propagates the error on the ouput layer to the previous layers, altering the threshold and the weights of each synapsis.
-
